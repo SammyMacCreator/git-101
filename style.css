@@ -6,7 +6,9 @@ body {
 
 h1 {
 	font-weight: 100;
-	color: white;
+	color: black;
+	background-color: #E3C4B5;
+	padding: 20px;
 }
 
 #logo {
