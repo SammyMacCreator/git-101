@@ -1,7 +1,7 @@
 body {
 	margin: 0;
 	font-family: Helvetica;
-	background-color: #D23333;
+	background-color: #FFBC8F;
 }
 
 h1 {
@@ -20,5 +20,5 @@ h1 {
 	align-items: center;
 	justify-content: center;
 	height: 100vh;
-	color: red;
+	color: white;
 }
